@@ -1,0 +1,6 @@
+.DS_Store
+.Trash/
+*.ipynb_checkpoints/
+*.json
+*.zip
+.anaconda/
